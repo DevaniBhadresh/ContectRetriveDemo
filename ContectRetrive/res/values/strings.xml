@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ContectRetriveActivity!</string>
+    <string name="app_name">ContectRetrive</string>
+
+</resources>
